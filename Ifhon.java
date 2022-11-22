@@ -5,8 +5,9 @@
 package ProjectPhone;
 
 /**
- *
- * @author LENOVO
+ * @author Nicodemus
+ * 21103077
+ * SIS105C
  */
 public class Ifhon implements Phone{ 
     private int volume; 
